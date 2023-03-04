@@ -1,0 +1,52 @@
+﻿  EnterTrains.cpp
+D:\Final\RailwayApp\RailwayApp\EnterTrains.h(33,34): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  MyForm1.cpp
+D:\Final\RailwayApp\RailwayApp\Login.h(37,34): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  Railway.cpp
+D:\Final\RailwayApp\RailwayApp\Railway.cpp(108,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Final\RailwayApp\RailwayApp\Railway.cpp(112,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Final\RailwayApp\RailwayApp\Railway.cpp(217,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Final\RailwayApp\RailwayApp\Railway.cpp(235,15): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Search.cpp
+D:\Final\RailwayApp\RailwayApp\Search.h(45,34): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  adm_login.cpp
+  main.cpp
+D:\Final\RailwayApp\RailwayApp\Signup.h(47,34): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+D:\Final\RailwayApp\RailwayApp\Login.h(37,34): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+D:\Final\RailwayApp\RailwayApp\Search.h(45,34): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+D:\Final\RailwayApp\RailwayApp\EnterTrains.h(33,34): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+D:\Final\RailwayApp\RailwayApp\main.cpp(23,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  profile.cpp
+  Generating Code...
+D:\Final\RailwayApp\RailwayApp\Railway.cpp(130): warning C4715: 'Railway::gettrackbyID': not all control paths return a value
+D:\Final\RailwayApp\RailwayApp\Railway.cpp(200): warning C4715: 'Railway::getstationidbyname': not all control paths return a value
+  adm_login.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  RailwayApp.vcxproj -> D:\Final\RailwayApp\x64\Debug\RailwayApp.exe

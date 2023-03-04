@@ -1,0 +1,55 @@
+  RailwayApp.adm_login.resources - Embedded, ContainedInManifestFile, 
+  RailwayApp.EnterTrains.resources - Embedded, ContainedInManifestFile, 
+  RailwayApp.profile.resources - Embedded, ContainedInManifestFile, 
+  RailwayApp.Search.resources - Embedded, ContainedInManifestFile, 
+  RailwayApp.Signup.resources - Embedded, ContainedInManifestFile, 
+  RailwayApp.Login.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly RailwayApp, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class RailwayApp.adm_login: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    setRailwayData(Railway*): PrivateScope, Public, HideBySig
+Class RailwayApp.EnterTrains: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    setRailwayData(Railway*): PrivateScope, Public, HideBySig
+    SystemToStandardString(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, String): PrivateScope, Public, HideBySig
+Class RailwayApp.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    setRailwayData(Railway*): PrivateScope, Public, HideBySig
+    SystemToStandardString(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, String): PrivateScope, Public, HideBySig
+Class RailwayApp.MyForm1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    setRailwayData(Railway*): PrivateScope, Public, HideBySig
+    SystemToStandardString(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, String): PrivateScope, Public, HideBySig
+Class RailwayApp.Search: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    setRailwayData(Railway*): PrivateScope, Public, HideBySig
+    SystemToStandardString(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, String): PrivateScope, Public, HideBySig
+Class RailwayApp.profile: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    setRailwayData(Railway*): PrivateScope, Public, HideBySig
